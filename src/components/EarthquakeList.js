@@ -20,11 +20,9 @@ class EarthquakeList extends Component {
         </div>
         </div>
       )
-
     });
     return(
       <div className="quake-list">
-
       <div className="row">
         {earthquakeList}
       </div>
